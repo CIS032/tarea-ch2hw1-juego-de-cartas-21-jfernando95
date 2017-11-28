@@ -1,0 +1,51 @@
+Tus cartas son: 
+    3 de ESPADAS
+    3 de DIAMANTES
+Su total es6
+El concesionario está mostrando el 2 de ESPADAS
+"Continuar (C) o Parar (P)"? 
+C
+Por favor responda H o S:  nH
+n 
+ Aciertos de usuario.
+Aciertos de usuario.
+Su tarjeta es el 9 de CORAZONES
+Su total es ahora 15
+Tus cartas son: 
+    3 de ESPADAS
+    3 de DIAMANTES
+    9 de CORAZONES
+Su total es15
+El concesionario está mostrando el 2 de ESPADAS
+"Continuar (C) o Parar (P)"? 
+C
+Por favor responda H o S:  nH
+n 
+ Aciertos de usuario.
+Aciertos de usuario.
+Su tarjeta es el 2 de DIAMANTES
+Su total es ahora 17
+Tus cartas son: 
+    3 de ESPADAS
+    3 de DIAMANTES
+    9 de CORAZONES
+    2 de DIAMANTES
+Su total es17
+El concesionario está mostrando el 2 de ESPADAS
+"Continuar (C) o Parar (P)"? 
+P
+Por favor responda H o S:  nS
+n
+Usuario parado.
+Las cartas del distribuidor son
+    2 de ESPADAS
+    8 de TREBOLES
+El distribuidor golpea y obtiene el Rey de CORAZONES
+El total del repartidor es 20
+El repartidor gana, 20 puntos a 17.
+Bienvenido al juego de Blackjack.
+Tu tienes 100 dolares.¿Cuántos dólares quieres apostar? (Ingrese 0 para finalizar)
+80
+Tu tienes 20 dolares.¿Cuántos dólares quieres apostar? (Ingrese 0 para finalizar)
+0
+Te vas con $20.
